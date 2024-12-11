@@ -57,7 +57,7 @@ Este sistema implementa um processo de criptografia e descriptografia baseado no
     Digite a mensagem secreta: IN DEDSEC we trust
     Mensagem criptografada: A2vX1/w+LJ3wlGyHg70Dq2bdKnw=
     Menagem descriptografada:  IN DEDSEC we trust
-´´´
+```
 ---
 
 ## Estrutura do Código
