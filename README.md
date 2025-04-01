@@ -92,7 +92,7 @@ Este sistema implementa um processo de criptografia e descriptografia baseado no
 
 ---
 
-# 📝 Licença
+# Aviso ⚠️ 
 
 A DEDSEC está revelando a verdade, faça dela oque quiser. Porém não somos responsáveis pelos seus atos.
 
